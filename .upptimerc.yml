@@ -11,10 +11,7 @@ sites:
     check: "tcp-ping"
     url: xen-srv.tensegrity-labs.com
   - name: Cloud Services (tcloud.dev)
-    icon: https://tcloud.dev/apps/theming/favicon
-    url: $TCLOUD_STATUS_URL
-    headers:
-      - "NC-Token: $TCLOUD_TOKEN"
+    url: https://tcloud.dev
   - name: Cloud Services (Onlyoffice)
     url: https://onlyoffice.tcloud.dev
   - name: GitLab (gitlab.tcloud.dev)
@@ -22,9 +19,8 @@ sites:
   - name: Cloud Storage (minio.tcloud.dev)
     url: https://minio.tcloud.dev
   - name: Cloud Storage API (minio-api.tcloud.dev)
-    check: "tcp-ping"
-    url: https://minio-api.tcloud.dev
-    port: 443
+    method: POST
+    url: https://minio-api.tcloud.dev/minio/health/live
 
 status-website:
   cname: status.tensegrity-labs.com
