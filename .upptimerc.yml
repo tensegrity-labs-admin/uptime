@@ -11,6 +11,7 @@ sites:
     check: "tcp-ping"
     url: xen-srv.tensegrity-labs.com
   - name: Cloud Services (tcloud.dev)
+    icon: https://tcloud.dev/apps/theming/favicon
     url: $TCLOUD_STATUS_URL
     headers:
       - "NC-Token: $TCLOUD_TOKEN"
@@ -27,7 +28,7 @@ sites:
 
 status-website:
   cname: status.tensegrity-labs.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.tensegrity-labs.com/wp-content/uploads/2021/03/logo_box-e1641502133503.png
   name: Tensegrity Labs Status
   introTitle: Tensegrity Labs Status
   introMessage: The status of Tensegrity Labs web services
