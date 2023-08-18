@@ -19,7 +19,7 @@ sites:
   - name: Cloud Storage (minio.tcloud.dev)
     url: https://minio.tcloud.dev
   - name: Cloud Storage API (minio-api.tcloud.dev)
-    method: POST
+    method: GET
     url: https://minio-api.tcloud.dev/minio/health/live
 
 status-website:
