@@ -8,6 +8,7 @@ sites:
   - name: URL Shortner (tlabs.link)
     url: https://tlabs.link/test
   - name: In-house Server
+    icon: https://xen-srv.tcloud.dev/favicon.ico
     check: "tcp-ping"
     url: xen-srv.tensegrity-labs.com
   - name: Cloud Services (tcloud.dev)
