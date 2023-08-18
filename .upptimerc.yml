@@ -21,7 +21,9 @@ sites:
   - name: Cloud Storage (minio.tcloud.dev)
     url: https://minio.tcloud.dev
   - name: Cloud Storage API (minio-api.tcloud.dev)
+    check: "tcp-ping"
     url: https://minio-api.tcloud.dev
+    port: 443
 
 status-website:
   cname: status.tensegrity-labs.com
