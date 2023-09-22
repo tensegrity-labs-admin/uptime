@@ -96,18 +96,20 @@
     "url": "https://gitlab.tcloud.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.tcloud.dev.ico",
     "slug": "git-lab-gitlab-tcloud-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 257,
-    "timeWeek": 345,
-    "timeMonth": 343,
-    "timeYear": 343,
-    "dailyMinutesDown": {}
+    "time": 338,
+    "timeDay": 204,
+    "timeWeek": 321,
+    "timeMonth": 337,
+    "timeYear": 338,
+    "dailyMinutesDown": {
+      "2023-09-22": 0
+    }
   },
   {
     "name": "Cloud Storage (minio.tcloud.dev)",
