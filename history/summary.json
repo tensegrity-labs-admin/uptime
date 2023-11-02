@@ -4,10 +4,10 @@
     "url": "https://www.tensegrity-labs.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tensegrity-labs.com.ico",
     "slug": "website-www-tensegrity-labs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
@@ -15,16 +15,18 @@
     "timeWeek": 370,
     "timeMonth": 356,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 1
+    }
   },
   {
     "name": "URL Shortner (tlabs.link)",
     "url": "https://tlabs.link/test",
     "icon": "https://icons.duckduckgo.com/ip3/tlabs.link.ico",
     "slug": "url-shortner-tlabs-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 383,
     "timeMonth": 343,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   },
   {
     "name": "In-house Server",
