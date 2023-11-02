@@ -24,19 +24,19 @@
     "url": "https://tlabs.link/test",
     "icon": "https://icons.duckduckgo.com/ip3/tlabs.link.ico",
     "slug": "url-shortner-tlabs-link",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "77.09%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.70%",
-    "time": 392,
-    "timeDay": 1793,
-    "timeWeek": 746,
-    "timeMonth": 434,
-    "timeYear": 392,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "76.31%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.69%",
+    "time": 473,
+    "timeDay": 3477,
+    "timeWeek": 1424,
+    "timeMonth": 628,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2023-11-02": 330
+      "2023-11-02": 341
     }
   },
   {
