@@ -4,10 +4,10 @@
     "url": "https://www.tensegrity-labs.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tensegrity-labs.com.ico",
     "slug": "website-www-tensegrity-labs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "74.84%",
-    "uptimeWeek": "96.41%",
+    "uptimeDay": "74.80%",
+    "uptimeWeek": "96.40%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.67%",
     "time": 390,
@@ -16,7 +16,7 @@
     "timeMonth": 376,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2023-11-03": 44,
+      "2023-11-03": 45,
       "2023-11-02": 319
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tlabs.link.ico",
     "slug": "url-shortner-tlabs-link",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "64.35%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.51%",
+    "uptimeDay": "62.05%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.51%",
     "time": 470,
     "timeDay": 2656,
     "timeWeek": 1301,
     "timeMonth": 615,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-11-03": 172,
+      "2023-11-03": 205,
       "2023-11-02": 341
     }
   },
