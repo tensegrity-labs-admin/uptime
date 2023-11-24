@@ -1,7 +1,7 @@
 url: https://gitlab.tcloud.dev
-status: down
-code: 502
-responseTime: 206
-lastUpdated: 2023-11-24T05:04:35.302Z
+status: up
+code: 200
+responseTime: 380
+lastUpdated: 2023-11-24T05:25:10.097Z
 startTime: Fri Aug 18 2023 06:41:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
