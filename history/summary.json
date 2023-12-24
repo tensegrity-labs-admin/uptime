@@ -6,8 +6,8 @@
     "slug": "website-www-tensegrity-labs-com",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.78%",
     "time": 380,
@@ -16,7 +16,7 @@
     "timeMonth": 365,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-12-24": 13,
+      "2023-12-24": 14,
       "2023-12-22": 13,
       "2023-11-03": 56,
       "2023-11-02": 319
