@@ -1,7 +1,7 @@
 url: xen-srv.tensegrity-labs.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-21T10:40:21.921Z
+status: up
+code: 200
+responseTime: 65
+lastUpdated: 2024-09-21T10:51:41.383Z
 startTime: 2023-08-18T06:41:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
