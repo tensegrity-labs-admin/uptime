@@ -11,9 +11,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.88%",
     "time": 439,
-    "timeDay": 339,
-    "timeWeek": 549,
-    "timeMonth": 828,
+    "timeDay": 492,
+    "timeWeek": 545,
+    "timeMonth": 834,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-01-25": 19,
@@ -44,9 +44,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
     "time": 367,
-    "timeDay": 283,
-    "timeWeek": 493,
-    "timeMonth": 348,
+    "timeDay": 412,
+    "timeWeek": 507,
+    "timeMonth": 354,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2025-01-05": 20,
@@ -77,8 +77,8 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.69%",
     "time": 52,
-    "timeDay": 52,
-    "timeWeek": 55,
+    "timeDay": 64,
+    "timeWeek": 56,
     "timeMonth": 63,
     "timeYear": 41,
     "dailyMinutesDown": {
@@ -105,10 +105,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "98.59%",
     "time": 777,
-    "timeDay": 562,
-    "timeWeek": 559,
+    "timeDay": 481,
+    "timeWeek": 553,
     "timeMonth": 743,
-    "timeYear": 778,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2025-01-20": 116,
       "2025-01-03": 35,
@@ -143,15 +143,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/onlyoffice.tcloud.dev.ico",
     "slug": "cloud-services-onlyoffice",
     "status": "up",
-    "uptime": "89.30%",
+    "uptime": "89.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "84.43%",
     "time": 428,
-    "timeDay": 448,
-    "timeWeek": 392,
-    "timeMonth": 536,
+    "timeDay": 335,
+    "timeWeek": 389,
+    "timeMonth": 535,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-01-20": 102,
@@ -223,8 +223,7 @@
       "2024-06-30": 570,
       "2024-06-29": 187,
       "2024-06-10": 122,
-      "2024-05-02": 11,
-      "2024-02-04": 60
+      "2024-05-02": 11
     }
   },
   {
@@ -239,10 +238,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 700,
-    "timeWeek": 575,
-    "timeMonth": 519,
-    "timeYear": 557,
+    "timeDay": 190,
+    "timeWeek": 532,
+    "timeMonth": 504,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   },
   {
@@ -257,9 +256,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 350,
-    "timeWeek": 329,
-    "timeMonth": 322,
+    "timeDay": 314,
+    "timeWeek": 355,
+    "timeMonth": 321,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
@@ -269,15 +268,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio-api.tcloud.dev.ico",
     "slug": "cloud-storage-api-minio-api-tcloud-dev",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.59%",
     "time": 294,
-    "timeDay": 316,
-    "timeWeek": 294,
-    "timeMonth": 355,
+    "timeDay": 318,
+    "timeWeek": 303,
+    "timeMonth": 357,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-01-20": 114,
@@ -296,8 +295,7 @@
       "2024-07-04": 38,
       "2024-06-30": 570,
       "2024-06-29": 187,
-      "2024-06-10": 119,
-      "2024-02-04": 330
+      "2024-06-10": 119
     }
   }
 ]
