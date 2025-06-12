@@ -242,19 +242,19 @@
     "url": "https://gitlab.tcloud.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.tcloud.dev.ico",
     "slug": "git-lab-gitlab-tcloud-dev",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
     "time": 543,
-    "timeDay": 625,
-    "timeWeek": 516,
-    "timeMonth": 504,
+    "timeDay": 592,
+    "timeWeek": 517,
+    "timeMonth": 505,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 112
     }
   },
   {
@@ -262,19 +262,19 @@
     "url": "https://minio.tcloud.dev",
     "icon": "https://icons.duckduckgo.com/ip3/minio.tcloud.dev.ico",
     "slug": "cloud-storage-minio-tcloud-dev",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 326,
-    "timeWeek": 296,
-    "timeMonth": 303,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
+    "time": 290,
+    "timeDay": 276,
+    "timeWeek": 283,
+    "timeMonth": 300,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 112
     }
   },
   {
