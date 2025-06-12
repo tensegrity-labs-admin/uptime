@@ -1,7 +1,7 @@
 url: https://minio.tcloud.dev
-status: up
-code: 200
-responseTime: 231
-lastUpdated: 2025-06-11T23:13:11.271Z
+status: down
+code: 500
+responseTime: 420
+lastUpdated: 2025-06-12T18:34:48.112Z
 startTime: 2023-08-18T06:41:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
