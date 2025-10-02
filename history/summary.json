@@ -11,8 +11,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 467,
-    "timeDay": 576,
-    "timeWeek": 408,
+    "timeDay": 577,
+    "timeWeek": 433,
     "timeMonth": 416,
     "timeYear": 493,
     "dailyMinutesDown": {
@@ -46,9 +46,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
     "time": 400,
-    "timeDay": 380,
-    "timeWeek": 347,
-    "timeMonth": 331,
+    "timeDay": 374,
+    "timeWeek": 361,
+    "timeMonth": 333,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2025-10-01": 15,
@@ -80,8 +80,8 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "97.49%",
     "time": 46,
-    "timeDay": 64,
-    "timeWeek": 46,
+    "timeDay": 54,
+    "timeWeek": 48,
     "timeMonth": 47,
     "timeYear": 52,
     "dailyMinutesDown": {
@@ -108,8 +108,7 @@
       "2024-11-28": 35,
       "2024-11-25": 165,
       "2024-10-10": 380,
-      "2024-10-09": 648,
-      "2024-10-02": 32
+      "2024-10-09": 648
     }
   },
   {
@@ -118,15 +117,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcloud.dev.ico",
     "slug": "cloud-services-tcloud-dev",
     "status": "up",
-    "uptime": "97.02%",
+    "uptime": "97.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.52%",
+    "uptimeMonth": "98.02%",
     "uptimeYear": "94.88%",
     "time": 898,
-    "timeDay": 442,
-    "timeWeek": 513,
-    "timeMonth": 612,
+    "timeDay": 463,
+    "timeWeek": 511,
+    "timeMonth": 617,
     "timeYear": 884,
     "dailyMinutesDown": {
       "2025-09-22": 490,
@@ -168,8 +167,7 @@
       "2024-11-25": 165,
       "2024-11-13": 20,
       "2024-10-10": 417,
-      "2024-10-09": 774,
-      "2024-10-02": 31
+      "2024-10-09": 774
     }
   },
   {
@@ -178,15 +176,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/onlyoffice.tcloud.dev.ico",
     "slug": "cloud-services-onlyoffice",
     "status": "up",
-    "uptime": "90.40%",
+    "uptime": "90.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "80.67%",
     "time": 797,
-    "timeDay": 437,
-    "timeWeek": 342,
-    "timeMonth": 531,
+    "timeDay": 487,
+    "timeWeek": 374,
+    "timeMonth": 535,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2025-09-08": 218,
@@ -274,8 +272,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 935,
       "2024-10-10": 374,
-      "2024-10-09": 648,
-      "2024-10-02": 29
+      "2024-10-09": 648
     }
   },
   {
@@ -290,8 +287,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 563,
-    "timeDay": 563,
-    "timeWeek": 580,
+    "timeDay": 436,
+    "timeWeek": 571,
     "timeMonth": 548,
     "timeYear": 563,
     "dailyMinutesDown": {
@@ -311,9 +308,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 305,
-    "timeDay": 332,
-    "timeWeek": 314,
-    "timeMonth": 334,
+    "timeDay": 227,
+    "timeWeek": 308,
+    "timeMonth": 330,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2025-06-12": 112
@@ -325,15 +322,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio-api.tcloud.dev.ico",
     "slug": "cloud-storage-api-minio-api-tcloud-dev",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "95.87%",
     "time": 593,
-    "timeDay": 327,
-    "timeWeek": 318,
-    "timeMonth": 407,
+    "timeDay": 240,
+    "timeWeek": 310,
+    "timeMonth": 405,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2025-09-08": 217,
@@ -365,8 +362,7 @@
       "2024-11-28": 32,
       "2024-11-25": 165,
       "2024-10-10": 416,
-      "2024-10-09": 774,
-      "2024-10-02": 28
+      "2024-10-09": 774
     }
   }
 ]
