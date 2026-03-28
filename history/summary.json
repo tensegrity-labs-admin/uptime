@@ -104,18 +104,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/keep22.com.ico",
     "slug": "cloud-services-keep22-com",
     "status": "down",
-    "uptime": "1.30%",
-    "uptimeDay": "1.30%",
-    "uptimeWeek": "1.30%",
-    "uptimeMonth": "1.30%",
-    "uptimeYear": "1.30%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 61,
     "timeDay": 61,
     "timeWeek": 61,
     "timeMonth": 61,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2026-03-28": 0
+      "2026-03-28": 1
     }
   },
   {
