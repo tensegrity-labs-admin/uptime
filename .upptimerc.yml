@@ -11,8 +11,8 @@ sites:
     icon: https://xen-srv.tcloud.dev/favicon.ico
     check: "tcp-ping"
     url: xen-srv.tensegrity-labs.com
-  - name: Cloud Services (tcloud.dev)
-    url: https://tcloud.dev
+  - name: Cloud Services (keep22.com)
+    url: https://keep22.com
   - name: Cloud Services (Onlyoffice)
     url: https://onlyoffice.tcloud.dev
   - name: GitLab (gitlab.tcloud.dev)
